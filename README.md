@@ -9,6 +9,40 @@ https://boycott-forum.web.app/
 
 
 
+## Clone
+
+To clone this project run
+
+```bash
+  git clone https://github.com/iamshihab2020/boycott-product-forum.git
+```
+
+
+
+## Deployment
+
+To run this project first run
+
+```bash
+  npm install
+```
+
+
+To run client side
+
+```bash
+  npm run dev
+```
+
+
+To run server side
+
+```bash
+  noemon index.js
+```
+
+
+
 ## Features
 
 - Email-Password and Google Auth
